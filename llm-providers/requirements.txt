@@ -1,0 +1,16 @@
+# Core LangChain
+langchain
+langchain-community
+
+# LLM Providers
+huggingface-hub
+transformers
+sentence-transformers
+
+# Vector Stores
+faiss-cpu
+chromadb
+
+# Utilities
+python-dotenv
+tiktoken
